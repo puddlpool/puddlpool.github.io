@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Cardano Puddle Pool"
+theme = "air"
+
+[params]
+  description = "340₳ / x% / xk"
+  githubName = "puddlpool"
+  logo = ""
