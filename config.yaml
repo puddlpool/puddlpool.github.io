@@ -35,8 +35,8 @@ params:
     tocopen: false
 
     assets:
-        # disableHLJS: true # to disable highlight.js
-        # disableFingerprinting: true
+        disableHLJS: true # to disable highlight.js
+        disableFingerprinting: true
         # favicon: "<link / abs url>"
         # favicon16x16: "<link / abs url>"
         # favicon32x32: "<link / abs url>"
@@ -76,13 +76,13 @@ params:
 
     socialIcons:
         - name: twitter
-          url: "https://twitter.com/xxxx"
+          url: "https://twitter.com/1234"
         - name: github
           url: "https://github.com/puddlpool"
 
-    analytics:
-        google:
-            SiteVerificationTag: ""
+    # analytics:
+    #     google:
+    #         SiteVerificationTag: ""
 
     cover:
         hidden: true # hide everywhere but not in structured data
