@@ -3,6 +3,6 @@ title = "What is Staking?"
 
 +++
 
-## TITLE
+## What is Staking?
 
 Staking is...

@@ -66,7 +66,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hi there \U0001F44B"
-        Content: This Cardano Puddle pool home page, 340 / x% / xxxk 
+        Content: This is Cardano Puddle pool home page, 340 / x% / xxxk 
 
 
           Multiline ...
