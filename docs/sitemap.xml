@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://puddlpool.github.io/blog/</loc>
+    <lastmod>2021-03-30T15:47:52+08:00</lastmod>
+  </url><url>
+    <loc>http://puddlpool.github.io/</loc>
+    <lastmod>2021-03-30T15:47:52+08:00</lastmod>
+  </url><url>
+    <loc>http://puddlpool.github.io/blog/post2/</loc>
+    <lastmod>2021-03-30T15:47:52+08:00</lastmod>
+  </url><url>
+    <loc>http://puddlpool.github.io/blog/post1/</loc>
+    <lastmod>2021-03-30T15:47:50+08:00</lastmod>
+  </url><url>
+    <loc>http://puddlpool.github.io/categories/</loc>
+  </url><url>
+    <loc>http://puddlpool.github.io/contact/</loc>
+  </url><url>
+    <loc>http://puddlpool.github.io/tags/</loc>
+  </url><url>
+    <loc>http://puddlpool.github.io/what-is-cardano/</loc>
+  </url><url>
+    <loc>http://puddlpool.github.io/what-is-staking/</loc>
+  </url>
+</urlset>
