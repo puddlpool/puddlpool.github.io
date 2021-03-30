@@ -18,7 +18,7 @@ minify:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Cardano Puddle Pool
-    description: "Cardano Puddle Pool 340 / 1% / 10k"
+    description: "Cardano Puddle Pool 340 / x% / xk"
     author: Me
     # author: ["Me", "You"] # multiple authors
     #images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -66,7 +66,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hi there \U0001F44B"
-        Content: This Cardano Puddle pool home page, 340 / 1% / 100k 
+        Content: This Cardano Puddle pool home page, 340 / x% / xxxk 
 
 
           Multiline ...
