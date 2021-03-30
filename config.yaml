@@ -110,17 +110,17 @@ menu:
 
     - identifier: What is Staking
       name: What is Staking
-      url: /What is Staking
+      url: /what-is-staking
       weight: 20
 
     - identifier: Blog
       name: Blog
-      url: /Blog
+      url: /blog
       weight: 30
 
     - identifier: Contact
       name: Contact
-      url: /Contact
+      url: /contact
       weight: 40
 
 
