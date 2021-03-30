@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cardano Puddle Pool</title>
-    <link>http://puddlpool.github.io/</link>
+    <link>https://pool.puddl.io/</link>
     <description>Recent content on Cardano Puddle Pool</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Mar 2021 15:47:52 +0800</lastBuildDate><atom:link href="http://puddlpool.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Mar 2021 15:47:52 +0800</lastBuildDate><atom:link href="https://pool.puddl.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post2</title>
-      <link>http://puddlpool.github.io/blog/post2/</link>
+      <link>https://pool.puddl.io/blog/post2/</link>
       <pubDate>Tue, 30 Mar 2021 15:47:52 +0800</pubDate>
       
-      <guid>http://puddlpool.github.io/blog/post2/</guid>
+      <guid>https://pool.puddl.io/blog/post2/</guid>
       <description>test2</description>
     </item>
     
     <item>
       <title>Post1</title>
-      <link>http://puddlpool.github.io/blog/post1/</link>
+      <link>https://pool.puddl.io/blog/post1/</link>
       <pubDate>Tue, 30 Mar 2021 15:47:50 +0800</pubDate>
       
-      <guid>http://puddlpool.github.io/blog/post1/</guid>
+      <guid>https://pool.puddl.io/blog/post1/</guid>
       <description>Post1 test1</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://puddlpool.github.io/contact/</link>
+      <link>https://pool.puddl.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://puddlpool.github.io/contact/</guid>
+      <guid>https://pool.puddl.io/contact/</guid>
       <description>Contact</description>
     </item>
     
     <item>
       <title>What is Cardano?</title>
-      <link>http://puddlpool.github.io/what-is-cardano/</link>
+      <link>https://pool.puddl.io/what-is-cardano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://puddlpool.github.io/what-is-cardano/</guid>
+      <guid>https://pool.puddl.io/what-is-cardano/</guid>
       <description>What is Cardano Cardano is&amp;hellip;</description>
     </item>
     
     <item>
       <title>What is Staking?</title>
-      <link>http://puddlpool.github.io/what-is-staking/</link>
+      <link>https://pool.puddl.io/what-is-staking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://puddlpool.github.io/what-is-staking/</guid>
+      <guid>https://pool.puddl.io/what-is-staking/</guid>
       <description>TITLE Staking is&amp;hellip;</description>
     </item>
     
