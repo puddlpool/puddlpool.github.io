@@ -1,9 +1,0 @@
-baseURL = "http://puddlpool.github.io/"
-languageCode = "en-us"
-title = "Cardano Puddle Pool"
-theme = "air"
-
-[params]
-  description = "340₳ / x% / xk"
-  githubName = "puddlpool"
-  logo = ""

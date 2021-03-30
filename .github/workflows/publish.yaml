@@ -1,4 +1,4 @@
-name: Push to GitHub Pages on push to master
+name: Push to GitHub Pages on push to main
 on:
   push:
     branches:
@@ -9,7 +9,7 @@ jobs:
     name: Deploy
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout master
+      - name: Checkout main
         uses: actions/checkout@v1
 
       - name: Deploy the site
@@ -19,5 +19,4 @@ jobs:
           TARGET_REPO: puddlpool/puddlpool.github.io
           TARGET_BRANCH: main
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          HUGO_ARGS: '-t air'
           CNAME: puddlpool.github.io
