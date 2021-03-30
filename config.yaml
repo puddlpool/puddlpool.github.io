@@ -1,4 +1,4 @@
-baseURL: "http://puddlpool.github.io/"
+baseURL: "https://pool.puddl.io/"
 languageCode: "en-us"
 title: "Cardano Puddle Pool"
 theme: "PaperMod"
